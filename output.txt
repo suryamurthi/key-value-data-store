@@ -1,0 +1,10 @@
+surya is successfully added to datastore
+ravi is successfully added to datastore
+priya is successfully added to datastore
+swathi is successfully added to datastore
+surya : 25
+Error: time-to-live of ravi has expired. Thus, read operation not supported
+priya : 23
+swathi : 26
+Error: Key priya already exists
+Error: time-to-live of ravi has expired. Thus, delete not supported
